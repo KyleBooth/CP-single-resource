@@ -1,8 +1,8 @@
 **Single Resource Transformation:** CPOptimizer and MiniZinc Implementations  
 **Author:** Kyle E. C. Booth (kbooth@mie.utoronto.ca) 
 
-This repository investigates the single resource transformation (SRT) in constraint programming (CP) for vehicle routing and scheduling problems. Publications that have come out of this work are as follows:
- 
+This repository investigates the single resource transformation (SRT) in constraint programming (CP) for vehicle routing and scheduling problems. Our initial paper that explored this idea with application to electric vehicle routing:
+
 **Paper:** "[A Constraint Programming Approach to Electric Vehicle Routing with Time Windows](https://tidel.mie.utoronto.ca/pubs/Booth-CPAIOR2019.pdf)".
 
 **Citation:**  
@@ -17,6 +17,8 @@ Booth, K.E.C. & Beck, J.C., "A Constraint Programming Approach to Electric Vehic
   organization={Springer}
 }
 ```
+
+If you are interested in the source code of the above paper, please contact me.
 
 ### File/directory descriptions:
 
