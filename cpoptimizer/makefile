@@ -1,8 +1,8 @@
 CCC = g++ -O0
 
-CONCERTDIR = ../../software/solvers/CPLEX_Studio128/concert
-CPLEXDIR = ../../software/solvers/CPLEX_Studio128/cplex
-CPDIR = ../../software/solvers/CPLEX_Studio128/cpoptimizer
+CONCERTDIR = ../../../../software/solvers/CPLEX_Studio128/concert
+CPLEXDIR = ../../../../software/solvers/CPLEX_Studio128/cplex
+CPDIR = ../../../../software/solvers/CPLEX_Studio128/cpoptimizer
 
 CFLAGS = -DIL_STD -O -DNDEBUG -I$(CPLEXDIR)/include -I$(CPDIR)/include -I$(CONCERTDIR)/include -fPIC -fstrict-aliasing -pedantic -Wall -fexceptions -Wno-long-long -m64 -DILOUSEMT -D_REENTRANT -DILM_REENTRANT -std=c++0x
 
