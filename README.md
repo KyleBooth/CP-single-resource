@@ -1,0 +1,1 @@
+#CP-single-resource
