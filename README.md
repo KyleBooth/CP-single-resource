@@ -1,4 +1,4 @@
-**Graph Clear:** CPOptimizer and MiniZinc Implementations  
+**Single Resource Transformation:** CPOptimizer and MiniZinc Implementations  
 **Author:** Kyle E. C. Booth (kbooth@mie.utoronto.ca) 
 
 This repository investigates the single resource transformation (SRT) in constraint programming (CP) for vehicle routing and scheduling problems. Publications that have come out of this work are as follows:
@@ -6,7 +6,7 @@ This repository investigates the single resource transformation (SRT) in constra
 **Paper:** "[A Constraint Programming Approach to Electric Vehicle Routing with Time Windows](https://tidel.mie.utoronto.ca/pubs/Booth-CPAIOR2019.pdf)".
 
 **Citation:**  
-Morin, Michael, Margarita P. Castro, Kyle E. C. Booth, Tony T. Tran, Chang Liu, and J. Christopher Beck. "Intruder alert! Optimization models for solving the mobile robot graph-clear problem." Constraints 23, no. 3 (2018): 335-354.
+Booth, K.E.C. & Beck, J.C., "A Constraint Programming Approach to Electric Vehicle Routing with Time Windows", Proceedings of Sixteenth International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR2019), 129-145, 2019.
 ```
 @inproceedings{booth2019constraint,
   title={A Constraint Programming Approach to Electric Vehicle Routing with Time Windows},
@@ -15,7 +15,6 @@ Morin, Michael, Margarita P. Castro, Kyle E. C. Booth, Tony T. Tran, Chang Liu, 
   pages={129--145},
   year={2019},
   organization={Springer}
-}
 }
 ```
 
