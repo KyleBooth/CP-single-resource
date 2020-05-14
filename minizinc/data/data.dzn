@@ -1,0 +1,9 @@
+% Problem instance data
+m = 2; % number of vehicles
+n = 4; % number of cities
+p = [5, 5, 5, 5]; % city processing times
+H = 100; % scheduling horizon
+tt = [| 0, 2, 3, 4 | % transition matrix
+	2, 0, 5, 2 |
+	3, 5, 0, 1 |
+	4, 2, 1, 0 |];
