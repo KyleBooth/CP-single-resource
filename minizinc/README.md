@@ -3,6 +3,7 @@
 
 ### Running a model:
 
-To run a MiniZinc model (and have all solutions output), execute the following command in terminal:
-`minizinc -a alternative-resource.mzn data/data.dzn`
+To run a MiniZinc model (and have all solutions output), execute the following command in terminal:  
+
+`minizinc -a <model>.mzn data/data.dzn`
 
