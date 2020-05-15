@@ -24,9 +24,5 @@ If you are interested in the source code of the above paper, please contact me.
 
 *"cpoptimizer":* implementation of SRT for multiple traveling salesman problem (mTSP) in C++ using CPOptimizer.
 
-*"minizinc":* implementation of SRT for mTSP in MiniZinc. (in progress)
-
-### Running a model:
-
-Instructions in progress.
+*"minizinc":* implementation of SRT for mTSP in MiniZinc.
 
