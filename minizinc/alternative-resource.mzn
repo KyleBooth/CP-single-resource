@@ -1,4 +1,4 @@
-% m-TSP: Alternative resource CP model (MiniZinc implementation)
+% m-TSP variant: Alternative resource CP model (MiniZinc implementation)
 % Author: Kyle E. C. Booth (kbooth@mie.utoronto.ca)
 
 include "globals.mzn";
