@@ -1,6 +1,10 @@
 **Single Resource Transformation:** MiniZinc Implementations  
 **Author:** Kyle E. C. Booth (kbooth@mie.utoronto.ca) 
 
+### Prerequisites
+
+Make sure you have MiniZinc installed on your computer. 
+
 ### Running a model:
 
 To run a MiniZinc model, execute the following command in terminal:  
